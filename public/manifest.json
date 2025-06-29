@@ -1,7 +1,7 @@
 {
-  "name": "聚合影视",
-  "short_name": "在线视频聚合",
-  "description": "影视聚合",
+  "name": "云观影",
+  "short_name": "WatchCloud",
+  "description": "影视世界，一触即达",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
