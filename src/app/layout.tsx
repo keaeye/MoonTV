@@ -9,8 +9,8 @@ import { ThemeProvider } from '../components/ThemeProvider';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'MoonTV',
-  description: '影视聚合',
+  title: '云观影',
+  description: '影视世界，一触即达',
   manifest: '/manifest.json',
 };
 
